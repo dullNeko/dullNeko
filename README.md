@@ -1,6 +1,4 @@
-### Authentication Test
 
-<a rel="me" href="https://ukadon.shillest.net/@dullNeko">[Mastodon] https://ukadon.shillest.net/@dullNeko</a>
 
 <!--
 **dullNeko/dullNeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
